@@ -1,22 +1,16 @@
 {
   "schemaVersion": 1,
   "id": "betterend",
-  "version": "${version}",
-  "name": "Better End",
-  "description": "More content for The End dimension, including new biomes, plants, mobs, mechanics, terrain generation and more.\nMade by:\n- paulevs (code & art)\n- Bulldog83 (code & art)\n- Edos (building)\n- Yuki (art)\n- Seaward (art)\n- Firel (music)\n",
-  "authors": [
-    "Quiqueck (code)",
-    "paulevs (code & art)",
-    "Bulldog83 (code & art)",
-    "Edos (building)",
-    "Yuki (art)",
-    "Seaward (art)",
-    "Firel (music)"
+  "version": "2.1.6",
+  "name": "Better End Fork",
+  "description": "A Fork of BetterEnd to work with EMI 1.0.0",
+"authors":[
+  "gayasslily"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/betterend",
-    "issues": "https://github.com/quiqueck/BetterEnd/issues",
-    "sources": "https://github.com/quiqueck/BetterEnd"
+    "homepage": "https://modrinth.com/mod/betterx-jemi",
+    "issues": "https://github.com/lxly9.2/BetterEnd/issues",
+    "sources": "https://github.com/lxly9.2/BetterEnd"
   },
   "license": "MIT (CC BY-NC-SA 4.0 for some Assets)",
   "icon": "assets/betterend/icon.png",
@@ -65,8 +59,7 @@
     "bclib": {
       "updater_icon": "icon_updater.png",
       "downloads": {
-        "modrinth": "https://modrinth.com/mod/betterend",
-        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betterend"
+        "modrinth": "https://modrinth.com/mod/betterx-jemi"
       }
     }
   }
